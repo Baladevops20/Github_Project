@@ -1,0 +1,66 @@
+[33mcommit c978d8533b07d8c27cf84b3c6ff9570ca64493b7[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 16:04:12 2022 +0000
+
+    feature commit 2
+
+[33mcommit 8a0a45730cf7ae38ff5844f44aa4e30b3c7ebd58[m
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 16:01:51 2022 +0000
+
+     feature change 1
+
+[33mcommit 1d765a879b888e790e3a265a1b9ba3d46260f02d[m[33m ([m[1;32mmaster-github[m[33m, [m[1;32mhotfix[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 0ce29e7 2fc4b58
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 15:45:23 2022 +0000
+
+    Merge branch 'develop' into hotfix
+
+[33mcommit 2fc4b580ba45852f8576bdeda0c4f522893b5578[m
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 15:41:22 2022 +0000
+
+    Hot fix file 2 commit from develop
+
+[33mcommit 0ce29e7f42756568f839de3c066a12e90390a4cc[m
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 15:40:14 2022 +0000
+
+    file 1commit from hotfix
+
+[33mcommit 8222888271742a28c6bf2dc9739dbb566d1d6e7e[m[33m ([m[1;32mqa[m[33m)[m
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 08:47:12 2022 +0000
+
+    New changes from devlop branch
+
+[33mcommit 4e864f0179f195f31d144de7b01d83b2e5042e87[m[33m ([m[1;31morigin/master-github[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vaishu01 <Vaishu@gmal.com>
+Date:   Fri Jul 29 07:28:37 2022 +0000
+
+    Vaish first commit for afile 1 & 2
+
+[33mcommit b1ed39d4f8a3d982402903897c7c87da2e7f59f2[m
+Author: Bala-GitHub <baladevops@gmail.com>
+Date:   Fri Jul 29 07:22:57 2022 +0000
+
+    New commit for bashfile1 modification
+
+[33mcommit f655e9d65b036e2bb251da2e002f77d7c1c5617e[m
+Author: Bala <baladevops@gmail.com>
+Date:   Fri Jul 29 12:34:35 2022 +0530
+
+    Bash file1 & file2 added from gitbash
+
+[33mcommit ce39391080bc419e6c6ead32264a070f9723a5d5[m
+Author: Bala-GitHub <baladevops@gmail.com>
+Date:   Wed Jul 27 17:45:01 2022 +0000
+
+    Upd files first commit
+
+[33mcommit d61a8c33d78de1d4ae6cc0c0d18dd7d029ed11c3[m
+Author: Baladevops20 <106560940+Baladevops20@users.noreply.github.com>
+Date:   Wed Jul 27 23:04:12 2022 +0530
+
+    Initial commit
